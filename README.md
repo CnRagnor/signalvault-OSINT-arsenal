@@ -594,6 +594,7 @@ Git repositories are not inherently dangerous, but **running code from them can 
 
 | Tool | Jurisdiction / Coverage | Free |
 |---|---|---|
+| [Currawong USCI / USCC Checker](https://currawongweb.com/verify/china-usci-checker/) | China — browser-side code structure/check-digit check before registry research; does not query records or confirm company identity | ✅ |
 | [OpenCorporates](https://opencorporates.com) | 200M+ companies worldwide — largest open corporate database | ✅ |
 | [Companies House](https://www.gov.uk/get-information-about-a-company) | UK — filings, directors, financial statements, PSC register | ✅ |
 | [SEC EDGAR](https://www.sec.gov/edgar) | US public companies — 10-K, insider transactions, executive compensation | ✅ |
