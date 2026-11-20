@@ -609,6 +609,7 @@ Git repositories are not inherently dangerous, but **running code from them can 
 | [LinkedIn](https://www.linkedin.com) | Org charts, employee discovery, role history, company structure | Freemium |
 | [Glassdoor](https://www.glassdoor.com) | Internal culture intel, executive profiles, salary data | Freemium |
 | [BuiltWith](https://builtwith.com) | Technology vendor stack intelligence per domain | Freemium |
+| [DDScore ExampleForge report](https://www.ddscore.ai/example-report/) | Worked fictional company diligence example showing how to cross-check document claims, identify contradictions, and frame follow-up questions | ✅ |
 | [linkedin2username](https://github.com/initstring/linkedin2username) | Harvest employee usernames from LinkedIn company pages | ✅ |
 
 ---
