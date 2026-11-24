@@ -668,6 +668,7 @@ Git repositories are not inherently dangerous, but **running code from them can 
 
 | Tool | Description | Free |
 |---|---|---|
+| [H1DR4 Incident Map](https://h1dr4.dev/map) | Browse reported crimes and other incidents by location using published records. | Free |
 | [Overpass Turbo](https://overpass-turbo.eu) | Advanced OpenStreetMap queries — find infrastructure and custom features | ✅ |
 | [Wikimapia](https://wikimapia.org) | Collaboratively tagged map — identifies unlabelled structures and locations | ✅ |
 | [MarineTraffic](https://www.marinetraffic.com) | Real-time vessel position, port intelligence, voyage history | Freemium |
